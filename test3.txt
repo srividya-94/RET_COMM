@@ -1,4 +1,0 @@
-testing file 3
-
-test the Modify file format option - to validate the M option in the fine name 
-and then perform git add , commit and push 
