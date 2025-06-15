@@ -1,0 +1,2 @@
+testing by adding file directly in the repo and check if the same appears in the VSCode project folder by doing a git pull
+  
